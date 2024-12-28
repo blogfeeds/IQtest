@@ -1,0 +1,36 @@
+{
+    "name": "IQ Test Indonesia",
+    "short_name": "IQ Test",
+    "description": "Tes IQ Gratis Berbahasa Indonesia",
+    "start_url": "https://iqtestindo.pages.dev",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "'logos": [
+        {
+            "src": "'https://iqtestindo.pages.dev/logo-72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "'https://iqtestindo.pages.dev/logo-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "'https://iqtestindo.pages.dev/logo-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+                {
+            "src": "'https://iqtestindo.pages.dev/logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "'https://iqtestindo.pages.dev/logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
